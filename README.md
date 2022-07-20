@@ -47,3 +47,5 @@ https://github.com/WangScaler/wangscaler/blob/main/README.md
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=vithank" >
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,flutter,dart,vue,gitlab&perline=3)](https://skillicons.dev)
